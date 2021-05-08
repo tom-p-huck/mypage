@@ -16,7 +16,7 @@ I am currently a scientific assistant and PhD student at Karlsruhe Institute of 
 ### Work
 
 #### Robotics
-My main research interest is the hazard analysis of robot systems. More and more robot systems are built to collaborate directly with humans. Obviously, safety is a major concern when in such collaborative robot systems. Thus, before becoming operational, these systems must be analyzed thoroughly to identify any hazards they may pose to humans. Such a procedure is called [hazard analysis](https://en.wikipedia.org/wiki/Hazard_analysis). A hazard analysis is mandatory for all kinds of safety-critical systems (including robots, but also all other kinds of machinery, medical devices, etc.).
+My main research interest is the hazard analysis of robot systems. More and more robot systems are built to collaborate directly with humans. Obviously, safety is a major concern in such collaborative robot systems. Thus, before becoming operational, these systems must be analyzed thoroughly to identify any hazards they may pose to humans. Such a procedure is called [hazard analysis](https://en.wikipedia.org/wiki/Hazard_analysis). A hazard analysis is mandatory for all kinds of safety-critical systems (including robots, but also all other kinds of machinery, medical devices, etc.).
 <hr/>
 <p align="center">
 	<img src="images/HumanRobotExample.png" alt="drawing" width="300"/>	
@@ -33,7 +33,7 @@ I also contributed to the development of a thermal model of an electric drive sy
 Finally, I had the oppertunity to visit the company's site in Shanghai for three months, where I helped to transfer the developed modeling techniques to a new project.
 
 ### Publications
-Here is an overview of my publications:
+Here is list of my publications:
 - Huck, Tom P., Nadine Münch, Luisa Hornung, Christoph Ledermann, and Christian Wurll. "Risk assessment tools for industrial human-robot collaboration: Novel approaches and practical needs" (2021). <br/> <i> This is my most recent publication. It will soon appear in the Journal "Safety Science".</i>
 - Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Virtual Adversarial Humans finding Hazards in Robot Workplaces." (2021). <br/> <i> This paper will be presented at the 2021 IEEE Conference on Robotics and Automation (ICRA). You can find a preprint [here](https://arxiv.org/abs/2103.00973). </i>
 - Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Simulation-based Testing for Early Safety-Validation of Robot Systems." 2020 IEEE Symposium on Product Compliance Engineering-(SPCE Portland). IEEE, 2020. <br/>
@@ -52,7 +52,7 @@ I enjoy reading about history (especially the second half of the 20th century), 
 <hr/>
 <p align="center">
 	<img src="images/Bookshelf.jpg" alt="drawing" width="300"/>	
-	<figcaption> <i>Some of my recent reads.</i> </figcaption>
+	<figcaption> <center> <i>Some of my recent reads.</i> </center> </figcaption>
 </p>
 <hr/>
 
