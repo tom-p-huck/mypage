@@ -1,6 +1,6 @@
 <h1>
   <p align="center">
-    Welcome to my personal webpage!
+    Welcome to my personal page!
   </p>
 </h1>
 
@@ -8,7 +8,7 @@
   <img src="images/Profile.jpg" alt="drawing" width="200"/>
 </p>
 <hr/>
-On this page, I give an overview about my work and my publications, but I also talk about some personal interests which are non-work related. If you want to reach out, please visit [my page on the university website](https://www.ipr.kit.edu/english/staff_3319.php), where you can find my contact information.
+On this page, I give an overview about my work and my publications, but I also talk about some personal interests which are non-work related. If you want to contact me, please visit [my university page](https://www.ipr.kit.edu/english/staff_3319.php) and use the contact information there.
 
 ### About me
 I am currently a PhD student in the field of robotics at Karlsruhe Institute of Technology (KIT) in Germany. Before starting my PhD, I studied mechatronics and electrical engineering at KIT. During my studies, I have also worked as an intern and student trainee on different projects in the field of E-Mobility. In 2019, I graduated and took a position as a scientific assistant, where I am involved in teaching, industry projects and research. 
