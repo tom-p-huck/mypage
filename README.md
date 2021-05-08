@@ -16,7 +16,7 @@ I am currently a scientific assistant and PhD student at Karlsruhe Institute of 
 ### Work
 
 #### Robotics
-My main research interest concerns the hazard analysis of robot systems. More and more robot systems are built to collaborate directly with humans. Obviously, safety is a major concern when designing such collaborative robot systems. Thus, before becoming operational, these systems must be analyzed thoroughly to identify any hazards they may pose to humans. Such a procedure is called [hazard analysis](https://en.wikipedia.org/wiki/Hazard_analysis). A hazard analysis is mandatory for all kinds of safety-critical systems (including robots, but also all other kinds of machinery, medical devices, etc.).
+My main research interest is the hazard analysis of robot systems. More and more robot systems are built to collaborate directly with humans. Obviously, safety is a major concern when in such collaborative robot systems. Thus, before becoming operational, these systems must be analyzed thoroughly to identify any hazards they may pose to humans. Such a procedure is called [hazard analysis](https://en.wikipedia.org/wiki/Hazard_analysis). A hazard analysis is mandatory for all kinds of safety-critical systems (including robots, but also all other kinds of machinery, medical devices, etc.).
 <hr/>
 <p align="center">
 	<img src="images/HumanRobotExample.png" alt="drawing" width="300"/>	
@@ -28,7 +28,7 @@ So far, I have published three research papers on this topic, which you can find
 
 #### E-Mobility
 Besides robotics, I am also interested in E-Mobility. I wrote my bachelor thesis on coil optimization for wireless electrical vehicle charging (you can also find a paper on this in the publications section). The thesis sparked a more general interest in E-Mobility, so I started an internship at an automotive supplier and then became a student trainee (German: "Werkstudent") for almost two years. During this time, I mainly worked on two topics: Adaptive control and thermal modeling for electrical motors.<br/>
-I investigated how [adaptive control algorithms](https://en.wikipedia.org/wiki/Adaptive_control), such as model reference adaptive control (MRAC) and model identification adaptive control (MIAC) can help top make control algorithms for electric motors more robust against parameter variance, parameter drift and defects.<br/>
+I investigated how [adaptive control methods](https://en.wikipedia.org/wiki/Adaptive_control), such as model reference adaptive control (MRAC) and model identification adaptive control (MIAC) can help top make control algorithms for electric motors more robust against parameter variance, parameter drift and defects.<br/>
 I also contributed to the development of a thermal model of an electric drive system and designed [state observers](https://en.wikipedia.org/wiki/State_observer) to estimate critical temperatures which we could not measure directly due to sensor placement issues.<br/>
 Finally, I had the oppertunity to visit the company's site in Shanghai for three months, where I helped to transfer the developed modeling techniques to a new project.
 
@@ -47,7 +47,7 @@ Here I talk about my hobbys and other non-work related interests, including some
 In my spare time, I volunteer in a local red cross team as a "Rettungshelfer" (a qualification that is roughly equivalent to the american EMT-B). Our team is an auxiliary unit which provides additional medical and logistic assistance in cases where the resources of standard emergency services are insufficient. In light of the current Covid-19 pandemic, we are also invovled in mobile vaccination teams and test centers. If you are interested, you can read about these activities [here](https://www.drk-ottersweier.de/index.html) (website available in German only).
 
 #### Books
-I enjoy reading about history (especially the second half of the 20th century), science, and technology. I find it especially interesting when a book explores the relationship between historical and technological developments and how one affects the other. One example of this is "The Code Book" by Simon Singh, which shows the development of cryptography its effects on the course of history. Another great example, which I am currently reading, is Alex Wellersteyn's book "Restricted Data", which deals with the secret science behind the manhattan project and other nuclear science developments.
+I enjoy reading about history (especially the second half of the 20th century), science, and technology. I find it especially interesting when a book explores the relationship between historical and technological developments and how one affects the other. One example of this is "The Code Book" by Simon Singh, which shows the development of cryptography and how it has influenced the course of history. Another great example, which I am currently reading, is Alex Wellersteyn's book "Restricted Data", which deals with the secret science behind the manhattan project and other nuclear science developments.
 
 <hr/>
 <p align="center">
