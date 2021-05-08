@@ -52,7 +52,7 @@ I enjoy reading about history (especially the second half of the 20th century), 
 <hr/>
 <p align="center">
 	<img src="images/Bookshelf.jpg" alt="drawing" width="300"/>	
-	<figcaption> <center> <i>Some of my recent reads.</i> </center> </figcaption>
+	<center> <figcaption> <i>Some of my recent reads.</i> </figcaption>  </center> 
 </p>
 <hr/>
 
