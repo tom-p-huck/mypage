@@ -24,7 +24,7 @@ My main research interest is the hazard analysis of robot systems. More and more
 </p>
 <hr/>
 Traditional hazard analysis methods mostly rely on human reasoning, experience, and expert knowledge to identify hazards. Although this approach works most of the time, it does not scale well when it comes to analyzing highly complex systems (such as robot systems). For this reason, I investigate how we can use simulation to automatically identify potential hazards in the context of collaborative robotics. Although I do not think that hazard analysis should be fully automated, I believe that simulation can be a valuable addition to traditional hazard analysis methods and that it can help to identify hazards which otherwise may be overlooked.<br/>
-So far, I have published three research papers on this topic, which you can find in the publications section below.
+So far, I have published three research papers on this topic, which you can find in the [publications section](# Publications) below.
 
 #### E-Mobility
 Besides robotics, I am also interested in E-Mobility. I wrote my bachelor thesis on coil optimization for wireless electrical vehicle charging (you can also find a paper on this in the publications section). The thesis sparked a more general interest in E-Mobility, so I started an internship at an automotive supplier and then became a student trainee (German: "Werkstudent") for almost two years. During this time, I mainly worked on two topics: Adaptive control and thermal modeling for electrical motors.<br/>
@@ -33,7 +33,7 @@ I also contributed to the development of a thermal model of an electric drive sy
 Finally, I had the oppertunity to visit the company's site in Shanghai for three months, where I helped to transfer the developed modeling techniques to a new project.
 
 ### Publications
-<a name="Publication"></a>
+<a name="Publications"></a>
 Here is a list of my publications:
 - Huck, Tom P., Nadine Münch, Luisa Hornung, Christoph Ledermann, and Christian Wurll. "Risk assessment tools for industrial human-robot collaboration: Novel approaches and practical needs" (2021). <br/> <i> This is my most recent publication. It will soon appear in the Journal "Safety Science".</i>
 - Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Virtual Adversarial Humans finding Hazards in Robot Workplaces." (2021). <br/> <i> This paper will be presented at the 2021 IEEE Conference on Robotics and Automation (ICRA). You can find a preprint [here](https://arxiv.org/abs/2103.00973). </i>
