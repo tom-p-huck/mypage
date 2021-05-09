@@ -33,7 +33,7 @@ I also contributed to the development of a thermal model of an electric drive sy
 Finally, I had the oppertunity to visit the company's site in Shanghai for three months, where I helped to transfer the developed modeling techniques to a new project.
 
 ### Publications
-Here is list of my publications:
+Here is a list of my publications:
 - Huck, Tom P., Nadine Münch, Luisa Hornung, Christoph Ledermann, and Christian Wurll. "Risk assessment tools for industrial human-robot collaboration: Novel approaches and practical needs" (2021). <br/> <i> This is my most recent publication. It will soon appear in the Journal "Safety Science".</i>
 - Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Virtual Adversarial Humans finding Hazards in Robot Workplaces." (2021). <br/> <i> This paper will be presented at the 2021 IEEE Conference on Robotics and Automation (ICRA). You can find a preprint [here](https://arxiv.org/abs/2103.00973). </i>
 - Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Simulation-based Testing for Early Safety-Validation of Robot Systems." 2020 IEEE Symposium on Product Compliance Engineering-(SPCE Portland). IEEE, 2020. <br/>
@@ -62,4 +62,4 @@ As a commuter who spends a lot of time on trains and buses, I have found that po
 - [Not overthinking](https://notoverthinking.com/): A podcast by a doctor and a data scientist who talk about various aspects of life, but mostly about social interactions and the thoughts and effects behind them. Although this souds rather scientific, the hosts mostly talk about these things from the standpoint of their personal experiences in a laid-back style.
 - [We are history](https://podcasts.apple.com/gb/podcast/we-are-history/id1493436225): A light-hearted history podcast which is both informative and fun to listen to. 
 - [The plane safety podcast](https://www.planesafetypodcast.com/): A podcast by commercial a pilot about all kinds of aviation related aspects (not only about safety, as the name would suggest).
-- [No such thing as a fish](https://www.nosuchthingasafish.com/): A podcast about stange and odd facts, curated by the research team of the british quiz show "QI". The facts you will learn here mostly so obscure that they are not really useful, but the hosts are great and make every episode fun to listen to.
+- [No such thing as a fish](https://www.nosuchthingasafish.com/): A podcast about stange and odd facts, curated by the research team of the british quiz show "QI". The facts you will learn there are mostly so obscure that they are not really useful, but the hosts are great and make every episode fun to listen to.
