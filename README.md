@@ -33,6 +33,7 @@ I also contributed to the development of a thermal model of an electric drive sy
 Finally, I had the oppertunity to visit the company's site in Shanghai for three months, where I helped to transfer the developed modeling techniques to a new project.
 
 ### Publications
+<a name="Publication"></a>
 Here is a list of my publications:
 - Huck, Tom P., Nadine Münch, Luisa Hornung, Christoph Ledermann, and Christian Wurll. "Risk assessment tools for industrial human-robot collaboration: Novel approaches and practical needs" (2021). <br/> <i> This is my most recent publication. It will soon appear in the Journal "Safety Science".</i>
 - Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Virtual Adversarial Humans finding Hazards in Robot Workplaces." (2021). <br/> <i> This paper will be presented at the 2021 IEEE Conference on Robotics and Automation (ICRA). You can find a preprint [here](https://arxiv.org/abs/2103.00973). </i>
