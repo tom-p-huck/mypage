@@ -41,6 +41,8 @@ Here is a list of my publications:
 <i> If you don't have access to IEEEXplore, you can find a preprint [here](https://arxiv.org/abs/2011.10294). </i>
 - Knaisch, Katharina, Tom Huck, and Peter Gratzfeld. "Analysis and optimization of a solenoid coupler for wireless electric vehicle charging." Wireless Power Transfer 4.1 (2017): 13. <br/> <i> As mentioned above, this is the paper to which I contributed with bachelor thesis. Unfortunately, I cannot provide a preprint here, so you need access to the journal to read this.</i>
 
+If you don't know much industrial human-robot collaboration yet, you may also want to check out [this talk](https://www.youtube.com/watch?v=kFJpUSKTVAc), where I give an introduction to the topic (unfortunatley, the video is available in German only and the audio quality is not the best -  I will try to upload an English version with better audio quality in the future).
+
 ### Non-work related
 Here I talk about my hobbys and other non-work related interests, including some book and podcast recommendations.
 
