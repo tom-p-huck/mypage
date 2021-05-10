@@ -13,6 +13,9 @@ On this personal page, I give an overview of my work and my publications and I a
 ### About me
 I am currently a scientific assistant and PhD student at Karlsruhe Institute of Technology (KIT) in Germany. Before starting my PhD, I studied mechatronics and electrical engineering at KIT. During my studies, I have also worked as an intern and student trainee on different projects in the field of E-Mobility. In 2019, I graduated and took a position as a scientific assistant, where I am now involved in teaching, industry projects and research. 
 
+### News
+On June 1st, 2021, I will present my latest research at the 2021 IEEE Conference on Robotics and Automation (ICRA). I hope that I will be able to record my talk and share it with you afterwards. However, as of yet, I am not sure if this will be possible. In any case, you can find a preprint of my paper [here](https://arxiv.org/abs/2103.00973).
+
 ### Work
 
 #### Robotics
