@@ -32,7 +32,7 @@ humans. Such a procedure is called
 	<img src="images/HumanRobotExample.png" alt="drawing" width="300"/>
 	<figcaption> <i>There are many ways how simulation can be used to support
   hazard analysis, for example by performing reachability checks to find
-  possible collision hazards.</i> </figcaption>
+  possible collision hazards, or by estimating human-robot collision forces.</i> </figcaption>
 </p>
 <hr/>
 I investigate how simulation can be used as a tool to effectively
@@ -45,7 +45,7 @@ Besides robotics, I am also interested in E-Mobility. I wrote my bachelor thesis
 on wireless electrical vehicle charging. This sparked a more general interest
 in E-Mobility, so I started an internship at an automotive supplier and then
 became a student trainee (German: "Werkstudent") for almost two years.
-During this time i worked on various topics related to electric motors,
+During this time I worked on various topics related to electric motors,
 including adaptive control, thermal modeling, and automated design optimization.
 <br>
 <!--I investigated how [adaptive control methods](https://en.wikipedia.org/wiki/Adaptive_control), such as model reference adaptive control (MRAC) and model identification adaptive control (MIAC) can help top make control algorithms for electric motors more robust against parameter variance, parameter drift and defects.<br/>
@@ -57,11 +57,11 @@ project.
 ### Publications
 <a name="publications"></a>
 Here is a list of my publications:
-- Huck, Tom P., Nadine Münch, Luisa Hornung, Christoph Ledermann, and Christian Wurll. "Risk assessment tools for industrial human-robot collaboration: Novel approaches and practical needs" (2021). <br/> <i> This is my most recent publication. It will soon appear in the Journal "Safety Science".</i>
-- Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Virtual Adversarial Humans finding Hazards in Robot Workplaces." (2021). <br/> <i> This paper will be presented at the 2021 IEEE Conference on Robotics and Automation (ICRA). You can find a preprint [here](https://arxiv.org/abs/2103.00973). </i>
-- Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Simulation-based Testing for Early Safety-Validation of Robot Systems." 2020 IEEE Symposium on Product Compliance Engineering-(SPCE Portland). IEEE, 2020. <br/>
-<i> If you don't have access to IEEEXplore, you can find a preprint [here](https://arxiv.org/abs/2011.10294). </i>
-- Knaisch, Katharina, Tom Huck, and Peter Gratzfeld. "Analysis and optimization of a solenoid coupler for wireless electric vehicle charging." Wireless Power Transfer 4.1 (2017): 13. <br/> <i> As mentioned above, this is the paper to which I contributed with bachelor thesis. Unfortunately, I cannot provide a preprint here, so you need access to the journal to read this.</i>
+- Huck, Tom P., Nadine Münch, Luisa Hornung, Christoph Ledermann, and Christian Wurll. "Risk assessment tools for industrial human-robot collaboration: Novel approaches and practical needs" (2021).
+- Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Virtual Adversarial Humans finding Hazards in Robot Workplaces." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021. <br/> <i> If you don't have access to IEEEXplore, you can find a preprint [here](https://arxiv.org/abs/2103.00973).</i>
+- Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Simulation-based Testing for Early Safety-Validation of Robot Systems." 2020 IEEE Symposium on Product Compliance Engineering-(SPCE Portland). IEEE, 2020.<br/>
+<i> If you don't have access to IEEEXplore, you can find a preprint [here](https://arxiv.org/abs/2011.10294).</i>
+- Knaisch, Katharina, Tom Huck, and Peter Gratzfeld. "Analysis and optimization of a solenoid coupler for wireless electric vehicle charging." Wireless Power Transfer 4.1 (2017): 13. <br/> <i> As mentioned above, this is the paper to which I contributed with bachelor thesis.</i>
 
 <!--If you don't know much industrial human-robot collaboration yet, you may also want to check out [this talk](https://www.youtube.com/watch?v=kFJpUSKTVAc), where I give an introduction to the topic (unfortunatley, the video is available in German only and the audio quality is not the best -  I will try to upload an English version with better audio quality in the future).-->
 
