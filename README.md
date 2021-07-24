@@ -9,8 +9,8 @@
 </p>
 <hr/>
 This is my personal page where I talk about my work, my publications, and some
-of my non-work related interests. If you want to reach out, contact me via
-[E-Mail](mailto:tom.p.huck@gmail.com) and use the contact information there.
+of my non-work related interests. If you want to reach out, please contact me via
+[E-Mail](mailto:tom.p.huck@gmail.com).
 
 ### About me
 I am currently a scientific assistant and PhD student at Karlsruhe Institute of
