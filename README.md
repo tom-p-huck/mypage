@@ -8,24 +8,24 @@
   <img src="images/Profile.jpg" alt="drawing" width="200"/>
 </p>
 <hr/>
-This is my personal page where I talk about my work, my publications, and some
-of my non-work related interests. If you want to reach out, please contact me via
-[E-Mail](mailto:tom.p.huck@gmail.com).
 
 ### About me
 I am currently a scientific assistant and PhD student at Karlsruhe Institute of
 Technology (KIT) in Germany. Before that, I studied mechatronics and electrical
 engineering at KIT. During my studies, I have also worked as an intern and
-student trainee on different projects in the field of E-Mobility.
+student trainee on different projects in the field of E-Mobility.<br>
+On this personal page I talk about my work, my publications, and some
+of my non-work related interests. If you want to reach out, please contact me via
+[E-Mail](mailto:tom.p.huck@gmail.com).
 
 ### Work
 
 #### Robotics
 My main research interest is safety in human-robot collaboration (HRC). More and
 more robot systems are built to collaborate directly with humans. Obviously,
-safety is a major concern. Thus, before becoming operational, HRC systems must
-be analyzed thoroughly to identify any hazards they may pose to humans. Such a
-procedure is called
+safety is a major concern for these systems. Thus, before becoming operational,
+HRC systems must be analyzed thoroughly to identify any hazards they may pose to
+humans. Such a procedure is called
 [hazard analysis](https://en.wikipedia.org/wiki/Hazard_analysis).
 <hr/>
 <p align="center">
@@ -35,15 +35,14 @@ procedure is called
   possible collision hazards.</i> </figcaption>
 </p>
 <hr/>
-In my research, I investigate how simulations can be used as to effectively
+I investigate how simulation can be used as a tool to effectively
 support hazard analysis of robot systems. So far, I have published three
 research papers on this topic, which you can find in the
 [publications section](#publications) below.
 
 #### E-Mobility
 Besides robotics, I am also interested in E-Mobility. I wrote my bachelor thesis
-on wireless electrical vehicle charging (you can also find a paper on this in
-the [publications section](#publications)). This sparked a more general interest
+on wireless electrical vehicle charging. This sparked a more general interest
 in E-Mobility, so I started an internship at an automotive supplier and then
 became a student trainee (German: "Werkstudent") for almost two years.
 During this time i worked on various topics related to electric motors,
@@ -67,14 +66,28 @@ Here is a list of my publications:
 <!--If you don't know much industrial human-robot collaboration yet, you may also want to check out [this talk](https://www.youtube.com/watch?v=kFJpUSKTVAc), where I give an introduction to the topic (unfortunatley, the video is available in German only and the audio quality is not the best -  I will try to upload an English version with better audio quality in the future).-->
 
 ### Non-work related
-Here I talk about my hobbys and other non-work related interests, including some
-book and podcast recommendations.
+Below I talk about my hobbys and other non-work related interests.
+
+#### OptimiSim
+Recently, I started OptimiSim, a hobby project to develop a
+webservice for simulation-based parameter optimization. The idea behind this is
+that users can couple their simulation model with the OptimiSim, which will then
+automatically perform up a parameter optimization. For more information, have a
+look at the [OptimiSim website](www.optimisim.de).
 
 #### German Red Cross
-In my spare time, I volunteer in a local red cross team as a "Rettungshelfer" (a qualification that is roughly equivalent to the american EMT-B). Our team is an auxiliary unit which provides additional medical and logistic assistance in cases where the resources of standard emergency services are insufficient. In light of the current Covid-19 pandemic, we are also invovled in mobile vaccination teams and test centers. If you are interested, you can read about these activities [here](https://www.drk-ottersweier.de/index.html) (website available in German only).
+I also volunteer in a local red cross team which provides additional medical and
+logistic assistance in cases where the resources of standard emergency services
+are insufficient. You can read about our activities
+[here](https://www.drk-ottersweier.de/index.html)
+(website available in German only).
 
 #### Books
-I enjoy reading about history (especially the second half of the 20th century), science, and technology. I find it especially interesting when a book explores the relationship between historical and technological developments and how one affects the other. One example of this is "The Code Book" by Simon Singh, which shows the development of cryptography and how it has influenced the course of history. Another great example, which I am currently reading, is Alex Wellersteyn's book "Restricted Data", which deals with the secret science behind the manhattan project and other nuclear science developments.
+I enjoy reading about history (especially the second half of the 20th century),
+science, and technology. I find it especially interesting when a book explores
+the relationship between historical and technological developments and how one
+affects the other. Great examples of this genre are "The Code Book" by Simon
+Singh and "Restricted Data" by Alex Wellerstein.
 
 <hr/>
 <p align="center">
@@ -84,9 +97,16 @@ I enjoy reading about history (especially the second half of the 20th century), 
 <hr/>
 
 #### Podcasts
-As a commuter who spends a lot of time on trains and buses, I have found that podcasts are a good way to use the travel time that would otherwise be wasted. Over the time, I have listened to a wide range of podcasts. Some of my favorites are:
-- [Omega tau](https://omegataupodcast.net/): A podcast about various science and engineering topics which is available both in german and in english. The podcasts are relatively long (often 3 hours or more) and typically feature in-depth discussions with guest experts.
+As a commuter who spends a lot of time on trains and buses, I also came to enjoy
+podcasts. Some of my favorites are [Omega tau](https://omegataupodcast.net/), a
+science and engineering podcast, [We are history]
+(https://podcasts.apple.com/gb/podcast/we-are-history/id1493436225), a
+light-hearted history podcast, and
+[No such thing as a fish](https://www.nosuchthingasafish.com/), a fun podcast
+about strange and unusual facts.
+
+ <!--A podcast about various science and engineering topics which is available both in german and in english. The podcasts are relatively long (often 3 hours or more) and typically feature in-depth discussions with guest experts.
 - [Not overthinking](https://notoverthinking.com/): A podcast by a doctor and a data scientist who talk about various aspects of life, but mostly about social interactions and the thoughts and effects behind them. Although this souds rather scientific, the hosts mostly talk about these things from the standpoint of their personal experiences in a laid-back style.
 - [We are history](https://podcasts.apple.com/gb/podcast/we-are-history/id1493436225): A light-hearted history podcast which is both informative and fun to listen to.
 - [The plane safety podcast](https://www.planesafetypodcast.com/): A podcast where a commercial pilot talks about all kinds of aviation related aspects (not only about safety, as the name would suggest).
-- [No such thing as a fish](https://www.nosuchthingasafish.com/): A podcast about stange and odd facts, curated by the research team of the british quiz show "QI". The facts you will learn there are mostly so obscure that they are not really useful, but the hosts are great and make every episode fun to listen to.
+- [No such thing as a fish](https://www.nosuchthingasafish.com/): A podcast about stange and odd facts, curated by the research team of the british quiz show "QI". The facts you will learn there are mostly so obscure that they are not really useful, but the hosts are great and make every episode fun to listen to.-->
