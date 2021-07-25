@@ -99,14 +99,8 @@ Singh and "Restricted Data" by Alex Wellerstein.
 #### Podcasts
 As a commuter who spends a lot of time on trains and buses, I also came to enjoy
 podcasts. Some of my favorites are [Omega tau](https://omegataupodcast.net/), a
-science and engineering podcast, [We are history]
-(https://podcasts.apple.com/gb/podcast/we-are-history/id1493436225), a
+science and engineering podcast,
+[We are history](https://podcasts.apple.com/gb/podcast/we-are-history/id1493436225), a
 light-hearted history podcast, and
 [No such thing as a fish](https://www.nosuchthingasafish.com/), a fun podcast
 about strange and unusual facts.
-
- <!--A podcast about various science and engineering topics which is available both in german and in english. The podcasts are relatively long (often 3 hours or more) and typically feature in-depth discussions with guest experts.
-- [Not overthinking](https://notoverthinking.com/): A podcast by a doctor and a data scientist who talk about various aspects of life, but mostly about social interactions and the thoughts and effects behind them. Although this souds rather scientific, the hosts mostly talk about these things from the standpoint of their personal experiences in a laid-back style.
-- [We are history](https://podcasts.apple.com/gb/podcast/we-are-history/id1493436225): A light-hearted history podcast which is both informative and fun to listen to.
-- [The plane safety podcast](https://www.planesafetypodcast.com/): A podcast where a commercial pilot talks about all kinds of aviation related aspects (not only about safety, as the name would suggest).
-- [No such thing as a fish](https://www.nosuchthingasafish.com/): A podcast about stange and odd facts, curated by the research team of the british quiz show "QI". The facts you will learn there are mostly so obscure that they are not really useful, but the hosts are great and make every episode fun to listen to.-->
