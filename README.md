@@ -26,7 +26,12 @@ more robot systems are built to collaborate directly with humans. Obviously,
 safety is a major concern for these systems. Thus, before becoming operational,
 HRC systems must be analyzed thoroughly to identify any hazards they may pose to
 humans. Such a procedure is called
-[hazard analysis](https://en.wikipedia.org/wiki/Hazard_analysis).
+[hazard analysis](https://en.wikipedia.org/wiki/Hazard_analysis).<br>
+I investigate how simulation can be used as a tool to effectively
+support hazard analysis of robot systems. So far, I have published three
+research papers on this topic, which you can find in the
+[publications section](#publications) below.
+
 <hr/>
 <p align="center">
 	<img src="images/HumanRobotExample.png" alt="drawing" width="300"/>
@@ -35,10 +40,6 @@ humans. Such a procedure is called
   possible collision hazards, or by estimating human-robot collision forces.</i> </figcaption>
 </p>
 <hr/>
-I investigate how simulation can be used as a tool to effectively
-support hazard analysis of robot systems. So far, I have published three
-research papers on this topic, which you can find in the
-[publications section](#publications) below.
 
 #### E-Mobility
 Besides robotics, I am also interested in E-Mobility. I wrote my bachelor thesis
