@@ -82,19 +82,19 @@ are insufficient. You can read about our activities
 [here](https://www.drk-ottersweier.de/index.html)
 (website available in German only).
 
-#### Books
-I enjoy reading about history (especially the second half of the 20th century),
-science, and technology. I find it especially interesting when a book explores
-the relationship between historical and technological developments and how one
-affects the other. Great examples of this genre are "The Code Book" by Simon
-Singh and "Restricted Data" by Alex Wellerstein.
-
 <hr/>
 <p align="center">
 	<img src="images/Bookshelf.jpg" alt="drawing" width="300"/>
 	<center> <figcaption> <i>Some of my recent reads.</i> </figcaption>  </center>
 </p>
 <hr/>
+
+#### Books
+I enjoy reading about history (especially the second half of the 20th century),
+science, and technology. I find it especially interesting when a book explores
+the relationship between historical and technological developments and how one
+affects the other. Great examples of this genre are "The Code Book" by Simon
+Singh and "Restricted Data" by Alex Wellerstein.
 
 #### Podcasts
 As a commuter who spends a lot of time on trains and buses, I also came to enjoy
