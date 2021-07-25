@@ -71,7 +71,7 @@ Below I talk about my hobbys and other non-work related interests.
 #### OptimiSim
 Recently, I started OptimiSim, a hobby project to develop a
 webservice for simulation-based parameter optimization. The idea behind this is
-that users can couple their simulation model with the OptimiSim, which will then
+that users can couple their simulation model with the OptimiSim Server, which will then
 automatically perform up a parameter optimization. For more information, have a
 look at the [OptimiSim website](https://www.optimisim.de).
 
