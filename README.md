@@ -74,7 +74,9 @@ Recently, I started OptimiSim, a hobby project to develop a
 webservice for simulation-based parameter optimization. The idea behind this is
 that users can couple their simulation model with the OptimiSim Server, which will then
 automatically perform up a parameter optimization. For more information, have a
-look at the [OptimiSim website](https://www.optimisim.de).
+look at the [OptimiSim website](https://www.optimisim.de).<br>
+<b>Please note that the server might be temporarily unavailable, as I am still
+doing some testing and occasionally have to take it offline to fix some issues!</b>
 
 #### German Red Cross
 I also volunteer in a local red cross team which provides additional medical and
