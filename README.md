@@ -58,6 +58,7 @@ project.
 ### Publications
 <a name="publications"></a>
 Here is a list of my publications:
+- Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Testing Robot System Safety by Creating Hazardous Human Worker Behavior in Simulation." IEEE Robotics and Automation Letters 7, no. 2 (2021): 770-777. If you don't have access to IEEEXplore, you can find a preprint [here](https://arxiv.org/abs/2111.14433).
 - Huck, Tom P., Nadine Münch, Luisa Hornung, Christoph Ledermann, and Christian Wurll. "Risk assessment tools for industrial human-robot collaboration: Novel approaches and practical needs" (2021).
 - Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Virtual Adversarial Humans finding Hazards in Robot Workplaces." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021. <br/> <i> If you don't have access to IEEEXplore, you can find a preprint [here](https://arxiv.org/abs/2103.00973).</i>
 - Huck, Tom P., Christoph Ledermann, and Torsten Kröger. "Simulation-based Testing for Early Safety-Validation of Robot Systems." 2020 IEEE Symposium on Product Compliance Engineering-(SPCE Portland). IEEE, 2020.<br/>
