@@ -18,7 +18,7 @@ My main interests are:<br>
 - Functional Safety, and
 - Control Theory. <br>
 
-These topics go hand in hand: Embedded systems are computer systems which interact with the physical word (such as in cars or robots). As such systems are often safety-critical, we need functional safety to ensure that they do not pose a risk to us humans. Finally, control theory provides the theoretical mathematical foundation for controlling such systems.
+These topics go hand in hand: Embedded systems are computer systems which interact with the physical word (such as in cars or robots). As such systems are often safety-critical, we need functional safety to ensure that they do not pose a risk to us humans. Finally, control theory provides the theoretical mathematical foundation which tells us how to control physical systems so that behave as intended.
 <hr/>
 
 ### Embedded Systems
