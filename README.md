@@ -53,22 +53,20 @@ of these systems. The following book summarizes my research:
   </a>
 </p>
 
-Additional publications can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=subLjnMAAAAJ&hl=de&oi=ao)
+Additional publications can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=gdPyPDwAAAAJ&hl=en&oi=ao).
 
 <hr/>
 
 ### Control Theory
-My third area of interest is control theory. This is also closely related to my interest of electical drives,
-since control theory is an integral part of understading and working with drive systems. What I find especially
-fascinating about control theory is the ability to 'abstract away' from technical implementations and
-think about the behavior of a system in more general models which can be applied to a wide
-variety of electrical, mechanical, and other technologies.<br>
+My third area of interest is control theory. This is also closely related to my interest of embedded systems,
+since control theory is an integral part of understading and controlling physical processes in the real world. What I find especially
+fascinating about control theory is that it provides a kind of 'abstraction layer' which translates physical behaviors from various domains (electrical, mechanical, thermal,...) to a unified mathematical description (differential equations, laplace transfer functions etc.). This allows you to disassociated from technical implementations to a certain extent and think about the abstract behavior of a system in more general terms.<br>
 
-Since 2022, I also hold a lecture on control theory at 'Duale Hochschule Baden Württemberg' (DHBW) in Karlsruhe.
+Since 2022, I also hold a lecture on control theory at [Duale Hochschule Baden Württemberg](https://www.karlsruhe.dhbw.de/en/general/about-dhbw-karlsruhe.html) (DHBW) in Karlsruhe.
 You can find a summary of my lecture slides by clicking on the image below.
 
 <p align="center">
-  <a href="[https://d-nb.info/1322355398/34](https://github.com/tom-p-huck/dhbw-regelungstechnik-2023)">
+  <a href="https://github.com/tom-p-huck/regelungstechni-dhbw-2024">
     <img src="images/Title.png" alt="coverimage_lectureslides" width="300"/>
   </a>
 </p>
