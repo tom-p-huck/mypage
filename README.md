@@ -14,11 +14,11 @@ I am an electrical engineer who studied at Karlsruhe Institute of Technology (KI
 of my other interests. If you want to reach out, please contact me via
 [E-Mail](mailto:hucktm@gmail.com).<br>
 My main interests are:<br>
-- Embedded systems 
-- Functional Safety and
-- Control Theory <br>
+- Embedded systems ,
+- Functional Safety, and
+- Control Theory. <br>
 
-These topics go hand in hand: Embedded systems are computer systems which interact with the physical word (such as in cars or robots). As such systems are often safety-critical, we need functional safety to ensure that they do not pose a risk to us humans. Finally, control theory provides the mathematical foundation for controlling real-world physical processes.
+These topics go hand in hand: Embedded systems are computer systems which interact with the physical word (such as in cars or robots). As such systems are often safety-critical, we need functional safety to ensure that they do not pose a risk to us humans. Finally, control theory provides the theoretical mathematical foundation for controlling such systems.
 <hr/>
 
 ### Embedded Systems
@@ -27,7 +27,7 @@ My first practical experience with embedded systems was when I worked as an inte
 - [Condition monitoring](https://patents.google.com/patent/US11575340B2/en)
 - [Adaptive Control](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020181038313)
 
-The combination of the digital software world and the physical "real world", interacting through sensors and actuators, fascinated me and sparked a more general interest in embedded systems. Since then I have been involved in various activities related to embedded and cyber-physical systems, including:
+The combination of the digital "software world" and the physical "real world", interacting through sensors and actuators, fascinated me and sparked a more general interest in embedded systems. Since then I have been involved in various activities related to embedded and cyber-physical systems, including:
 - Robotics research (see also next section below)
 - Holding lectures on [real-time systems](https://ipr.iar.kit.edu/lehrangebote_3805.php) at KIT (from 2019-2023)
 - Software- and system-development in industrial embedded projects (since 2023)
@@ -60,10 +60,10 @@ Additional publications can be found on my [Google Scholar Profile](https://scho
 ### Control Theory
 My third area of interest is control theory. This is also closely related to my interest of embedded systems,
 since control theory is an integral part of understading and controlling physical processes in the real world. What I find especially
-fascinating about control theory is that it provides a kind of 'abstraction layer' which translates physical behaviors from various domains (electrical, mechanical, thermal,...) to a unified mathematical description (differential equations, laplace transfer functions etc.). This allows you to disassociated from technical implementations to a certain extent and think about the abstract behavior of a system in more general terms.<br>
+fascinating about control theory is that it provides a kind of 'abstraction layer' which translates physical behaviors from various domains (electrical, mechanical, thermal,...) to a unified mathematical description (differential equations, laplace transfer functions etc.). This allows you to disassociate from technical implementations to a certain extent and think about the abstract behavior of a system in more general terms.<br>
 
-Since 2022, I also hold a lecture on control theory at [Duale Hochschule Baden Württemberg](https://www.karlsruhe.dhbw.de/en/general/about-dhbw-karlsruhe.html) (DHBW) in Karlsruhe.
-You can find a summary of my lecture slides by clicking on the image below.
+Since 2022, I hold a lecture on control theory at [Duale Hochschule Baden Württemberg](https://www.karlsruhe.dhbw.de/en/general/about-dhbw-karlsruhe.html) (DHBW) in Karlsruhe.
+You can find an overview of my lecture materials by clicking on the image below.
 
 <p align="center">
   <a href="https://github.com/tom-p-huck/regelungstechni-dhbw-2024">
