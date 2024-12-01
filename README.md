@@ -66,12 +66,12 @@ Since 2022, I hold a lecture on control theory at [Duale Hochschule Baden Württ
 You can find an overview of my lecture materials by clicking on the image below.
 
 <p align="center">
-  <a href="https://github.com/tom-p-huck/regelungstechni-dhbw-2024">
+  <a href="https://github.com/tom-p-huck/regelungstechnik-dhbw-2024">
     <img src="images/Title.png" alt="coverimage_lectureslides" width="300"/>
   </a>
 </p>
 
 The goal of my lecture is to provide a basic introduction to control theory for computer scientists. Therefore, the slides are somewhat
 simplified compared to a full-fledged control theory course. However, I believe they are excellent for getting a first grasp
-and undestand the essentials. Unfortunately, the slides are currently available in German language only. For an English introduction that featurs a bit more detail than my slides, I recommend the [Tutorial](https://link.springer.com/book/10.1007/978-3-319-91707-8) by Steven A. Frank which is currently accessible on the Springer website free of charge.
+and undestand the essentials. Unfortunately, the slides are currently available in German language only. For an English introduction that featurs a bit more detail, I recommend this [Book by Steven A. Frank ](https://link.springer.com/book/10.1007/978-3-319-91707-8) which is available on the Springer website free of charge.
 
