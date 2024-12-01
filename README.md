@@ -69,7 +69,7 @@ You can find a summary of my lecture slides by clicking on the image below.
 
 <p align="center">
   <a href="[https://d-nb.info/1322355398/34](https://github.com/tom-p-huck/dhbw-regelungstechnik-2023)">
-    <img src="images/Title_landscape.png" alt="drawing" width="300"/>
+    <img src="images/Title.png" alt="coverimage_lectureslides" width="300"/>
   </a>
 </p>
 
