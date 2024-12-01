@@ -22,7 +22,7 @@ These topics go hand in hand: Embedded systems are computer systems which intera
 <hr/>
 
 ### Embedded Systems
-My first practical experience with embedded systems was when I worked as an intern and later part-time employee at an automotive supplier during my master studies. At the time, I was involved in several projects related to embedded systems in electric vehicles. This included for real-time temperature estimation, condition monitoring, and adaptive control of electric drive systems. For more info, see our related patents: 
+My first practical experience with embedded systems was when I worked as an intern and later part-time employee at an automotive supplier during my master studies. At the time, I was involved in several projects related to embedded systems in electric vehicles. This included real-time temperature estimation, condition monitoring, and adaptive control of electric drive systems. For more info, see our related patents: 
 - [Real-time temperature estimation](https://patents.google.com/patent/US11971314B2/enC)
 - [Condition monitoring](https://patents.google.com/patent/US11575340B2/en)
 - [Adaptive Control](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020181038313)
