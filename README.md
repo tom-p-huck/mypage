@@ -73,5 +73,5 @@ You can find an overview of my lecture materials by clicking on the image below.
 
 The goal of my lecture is to provide a basic introduction to control theory for computer scientists. Therefore, the slides are somewhat
 simplified compared to a full-fledged control theory course. However, I believe they are excellent for getting a first grasp
-and undestand the essentials. Unfortunately, the slides are currently available in German language only. For an English introduction that featurs a bit more detail, I recommend this [Book by Steven A. Frank ](https://link.springer.com/book/10.1007/978-3-319-91707-8) which is available on the Springer website free of charge.
+and undestand the essentials. Unfortunately, the slides are currently available in German language only. For an English introduction that features a bit more detail, I recommend this [Book by Steven A. Frank ](https://link.springer.com/book/10.1007/978-3-319-91707-8) which is available on the Springer website free of charge.
 
