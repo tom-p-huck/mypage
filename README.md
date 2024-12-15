@@ -45,7 +45,7 @@ In my research, I investigated how simulation-based testing can be used as a too
 </p>
 
 Additional publications can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=gdPyPDwAAAAJ&hl=en&oi=ao).
-After completing my PhD thesis in the field of functional safety, I became involved in several industrial projects related to safety-critical systems. I am also a Certified Machinery Safety Expert (CMSE), certified by TÜV Nord (TÜV is one of the major German certification authorities for Safety-critical systems).
+After completing my PhD thesis in the field of functional safety, I became involved in several industrial projects related to safety-critical systems. I am also currently a Certified Machinery Safety Expert (CMSE), certified by TÜV Nord (TÜV is one of the major German certification authorities for Safety-critical systems).
 
 <hr/>
 ### Control Theory  
