@@ -9,16 +9,15 @@
 </p>
 <hr/>
 
-### About me
-I am an electrical engineer who studied at Karlsruhe Institute of Technology (KIT) in Germany. On this personal page I talk about my work, my publications, and some
-of my other interests. If you want to reach out, please contact me via
-[E-Mail](mailto:hucktm@gmail.com).<br>
-My main interests are:<br>
-- Embedded systems ,
-- Functional Safety, and
-- Control Theory. <br>
+### About me  
+I am an electrical engineer who studied at the Karlsruhe Institute of Technology (KIT) in Germany. On this personal page, I talk about my work, my publications, and some of my other interests. If you want to reach out, please contact me via [E-Mail](mailto:hucktm@gmail.com).  
 
-These topics go hand in hand: Embedded systems are computer systems which interact with the physical word (such as in cars or robots). As such systems are often safety-critical, we need functional safety to ensure that they do not pose a risk to us humans. Finally, control theory provides the theoretical mathematical foundation which tells us how to control physical systems so that behave as intended.
+My main interests are:  
+- Embedded Systems,  
+- Functional Safety, and  
+- Control Theory.  
+
+These topics go hand in hand: Embedded systems are computer systems that interact with the physical world (such as in cars or robots). Since such systems are often safety-critical, we need functional safety to ensure that they do not pose a risk to humans. Finally, control theory provides the theoretical mathematical foundation that tells us how to control physical systems so they behave as intended.  
 <hr/>
 
 ### Embedded Systems
