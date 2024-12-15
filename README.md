@@ -18,18 +18,17 @@ My main interests are:
 - Control Theory.  
 
 These topics go hand in hand: Embedded systems are computer systems that interact with the physical world (such as in cars or robots). Since such systems are often safety-critical, we need functional safety to ensure that they do not pose a risk to humans. Finally, control theory provides the theoretical mathematical foundation that tells us how to control physical systems so they behave as intended.  
-<hr/>
+### Embedded Systems  
+My first practical experience with embedded systems was during my time as an intern and later as a part-time employee at an automotive supplier during my master’s studies. At the time, I was involved in several projects related to embedded systems in electric vehicles. This included real-time temperature estimation, condition monitoring, and adaptive control of electric drive systems. For more info, see our related patents:  
+- [Real-time temperature estimation](https://patents.google.com/patent/US11971314B2/enC)  
+- [Condition monitoring](https://patents.google.com/patent/US11575340B2/en)  
+- [Adaptive Control](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020181038313)  
 
-### Embedded Systems
-My first practical experience with embedded systems was when I worked as an intern and later part-time employee at an automotive supplier during my master studies. At the time, I was involved in several projects related to embedded systems in electric vehicles. This included real-time temperature estimation, condition monitoring, and adaptive control of electric drive systems. For more info, see our related patents: 
-- [Real-time temperature estimation](https://patents.google.com/patent/US11971314B2/enC)
-- [Condition monitoring](https://patents.google.com/patent/US11575340B2/en)
-- [Adaptive Control](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020181038313)
+The combination of the digital "software world" and the physical "real world," interacting through sensors and actuators, fascinated me and sparked a more general interest in embedded systems. Since then, I have been involved in various activities related to embedded and cyber-physical systems, including:  
+- Robotics research (see also the next section below)  
+- Holding lectures on [real-time systems](https://ipr.iar.kit.edu/lehrangebote_3805.php) at KIT (from 2019–2023)  
+- Software and system development in industrial embedded projects (since 2023)  
 
-The combination of the digital "software world" and the physical "real world", interacting through sensors and actuators, fascinated me and sparked a more general interest in embedded systems. Since then I have been involved in various activities related to embedded and cyber-physical systems, including:
-- Robotics research (see also next section below)
-- Holding lectures on [real-time systems](https://ipr.iar.kit.edu/lehrangebote_3805.php) at KIT (from 2019-2023)
-- Software- and system-development in industrial embedded projects (since 2023)
 
 <hr/>
 
