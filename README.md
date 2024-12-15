@@ -45,7 +45,8 @@ In my research, I investigated how simulation-based testing can be used as a too
 </p>
 
 Additional publications can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=gdPyPDwAAAAJ&hl=en&oi=ao).
-Since my PhD thesis in the field of functional safety, I have been involved in several industrial projects related to safety-critical systems in the domains of senesor systems and power electronics.
+After completing my PhD thesis in the field of functional safety, I became involved in several industrial projects related to safety-critical systems. I am also a Certified Machinery Safety Expert (CMSE), certified by TÜV Nord (TÜV is one of the major German certification authorities for Safety-critical systems).
+
 <hr/>
 ### Control Theory  
 My third area of interest is control theory. This is also closely related to my interest in embedded systems, since control theory is an integral part of understanding and controlling physical processes in the real world. What I find especially fascinating about control theory is that it provides a kind of 'abstraction layer' that translates physical behaviors from various domains (electrical, mechanical, thermal,...) into a unified mathematical description (differential equations, Laplace transfer functions, etc.). This allows you to detach from technical implementations to a certain extent and think about the abstract behavior of a system in more general terms.  
