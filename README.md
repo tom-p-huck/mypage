@@ -33,26 +33,19 @@ The combination of the digital "software world" and the physical "real world," i
 <hr/>
 
 
-### Functional Safety
-I first came into contact with the topic of functional safety when I worked as a 
-robotics researcher at KIT. At that time, my main research field was safety in 
-human-robot collaboration (HRC). More and more robot systems are built to collaborate 
-directly with humans. Obviously, safety is a major concern for these systems. 
-Thus, before becoming operational, HRC systems must be analyzed thoroughly to assess if these
-systems are actually safe. Such an analysis is called
-[hazard analysis](https://en.wikipedia.org/wiki/Hazard_analysis).<br>
-In my research, investigated how simulation-based testing can be used as a tool to effectively
-support hazard analysis of collaborative human-robot systems and assess the functional safety 
-of these systems. The following book summarizes my research (click on the book cover to get to the download):
+### Functional Safety  
+I first came into contact with the topic of functional safety when I worked as a robotics researcher at KIT. At that time, my main research field was safety in human-robot collaboration (HRC). More and more robotic systems are being built to collaborate directly with humans. Obviously, safety is a major concern for these systems. Thus, before becoming operational, HRC systems must be thoroughly analyzed to assess if they are actually safe. Such an analysis is called [hazard analysis](https://en.wikipedia.org/wiki/Hazard_analysis).  
+
+In my research, I investigated how simulation-based testing can be used as a tool to effectively support hazard analysis of collaborative human-robot systems and assess the functional safety of these systems. The following book summarizes my research:
 
 <p align="center">
-  <a href="https://github.com/tom-p-huck/mypage/blob/96352798ce75e331495093c93fd4895c22e52419/Huck_Ebook_compressed.pdf">
+  <a href="https://d-nb.info/1322355398/34">
     <img src="images/bookcover.PNG" alt="drawing" width="300"/>
   </a>
 </p>
 
 Additional publications can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=gdPyPDwAAAAJ&hl=en&oi=ao).
-
+Since my PhD thesis in the field of functional safety, I have been involved in several industrial projects related to safety-critical systems in the domains of senesor systems and power electronics.
 <hr/>
 
 ### Control Theory
