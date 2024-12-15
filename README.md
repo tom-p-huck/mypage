@@ -47,13 +47,10 @@ In my research, I investigated how simulation-based testing can be used as a too
 Additional publications can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=gdPyPDwAAAAJ&hl=en&oi=ao).
 Since my PhD thesis in the field of functional safety, I have been involved in several industrial projects related to safety-critical systems in the domains of senesor systems and power electronics.
 <hr/>
+### Control Theory  
+My third area of interest is control theory. This is also closely related to my interest in embedded systems, since control theory is an integral part of understanding and controlling physical processes in the real world. What I find especially fascinating about control theory is that it provides a kind of 'abstraction layer' that translates physical behaviors from various domains (electrical, mechanical, thermal,...) into a unified mathematical description (differential equations, Laplace transfer functions, etc.). This allows you to detach from technical implementations to a certain extent and think about the abstract behavior of a system in more general terms.  
 
-### Control Theory
-My third area of interest is control theory. This is also closely related to my interest of embedded systems,
-since control theory is an integral part of understading and controlling physical processes in the real world. What I find especially
-fascinating about control theory is that it provides a kind of 'abstraction layer' which translates physical behaviors from various domains (electrical, mechanical, thermal,...) to a unified mathematical description (differential equations, laplace transfer functions etc.). This allows you to disassociate from technical implementations to a certain extent and think about the abstract behavior of a system in more general terms.<br>
-
-Since 2022, I hold a lecture on control theory at [Duale Hochschule Baden Württemberg](https://www.karlsruhe.dhbw.de/en/general/about-dhbw-karlsruhe.html) (DHBW) in Karlsruhe.
+Since 2022, I have been holding a lecture on control theory at [Duale Hochschule Baden-Württemberg](https://www.karlsruhe.dhbw.de/en/general/about-dhbw-karlsruhe.html) (DHBW) in Karlsruhe.  
 You can find an overview of my lecture materials by clicking on the image below.
 
 <p align="center">
@@ -62,7 +59,5 @@ You can find an overview of my lecture materials by clicking on the image below.
   </a>
 </p>
 
-The goal of my lecture is to provide a basic introduction to control theory for computer scientists. Therefore, the slides are somewhat
-simplified compared to a full-fledged control theory course. However, I believe they are excellent for getting a first grasp
-and undestand the essentials. Unfortunately, the slides are currently available in German language only. For an English introduction that features a bit more detail, I recommend this [Book by Steven A. Frank ](https://link.springer.com/book/10.1007/978-3-319-91707-8) which is available on the Springer website free of charge.
+The goal of my lecture is to provide a basic introduction to control theory for computer scientists. Therefore, the slides are somewhat simplified compared to a full-fledged control theory course. However, I believe they are excellent for getting a first grasp and understanding the essentials. Unfortunately, the slides are currently available in German only. For an English introduction that features a bit more detail, I recommend this [Book by Steven A. Frank](https://link.springer.com/book/10.1007/978-3-319-91707-8), which is available on the Springer website free of charge.
 
