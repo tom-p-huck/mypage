@@ -18,6 +18,9 @@ My main interests are:
 - Control Theory.  
 
 These topics go hand in hand: Embedded systems are computer systems that interact with the physical world (such as in cars or robots). Since such systems are often safety-critical, we need functional safety to ensure that they do not pose a risk to humans. Finally, control theory provides the theoretical mathematical foundation that tells us how to control physical systems so they behave as intended.  
+
+<hr/>
+
 ### Embedded Systems  
 My first practical experience with embedded systems was during my time as an intern and later as a part-time employee at an automotive supplier during my master’s studies. At the time, I was involved in several projects related to embedded systems in electric vehicles. This included real-time temperature estimation, condition monitoring, and adaptive control of electric drive systems. For more info, see our related patents:  
 - [Real-time temperature estimation](https://patents.google.com/patent/US11971314B2/enC)  
@@ -39,7 +42,7 @@ I first came into contact with the topic of functional safety when I worked as a
 In my research, I investigated how simulation-based testing can be used as a tool to effectively support hazard analysis of collaborative human-robot systems and assess the functional safety of these systems. The following book summarizes my research:
 
 <p align="center">
-  <a href="https://d-nb.info/1322355398/34">
+  <a href="https://github.com/tom-p-huck/mypage/blob/master/Huck_Ebook_compressed.pdf">
     <img src="images/bookcover.PNG" alt="drawing" width="300"/>
   </a>
 </p>
